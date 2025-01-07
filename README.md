@@ -11,17 +11,7 @@ Key Highlights:
 - 📖 Well-structured daily notes  
 - 💡 Clear explanations with Python code examples  
 - 🔗 Learning resources for deeper exploration  
-- 🎯 Practice problems to reinforce learning  
-
----
-
-## **🌟 Daily Notes**  
-
-Navigate through the daily progress:  
-- **[Day 1: Introduction to Python](./day1.md)**  
-- **[Day 2: Python Fundamentals](./day2.md)**  
-- **... (links to all daily notes)**  
-- **[Day 100: Final Project and Reflection](./day100.md)**  
+- 🎯 Practice problems to reinforce learning   
 
 ---
 
