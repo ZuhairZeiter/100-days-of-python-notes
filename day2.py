@@ -1,5 +1,14 @@
 # Day Two of Python Learning
 
+# 📌 Objective:
+# Dive deeper into Python fundamentals and explore control flow concepts.
+
+# 📖 Topic(s):
+# 1. Data Types and Type Conversion
+# 2. Input/Output In Python
+# 3. Python Operators (Arithmetic, Comparison, Logical, etc.)
+# 4. Conditional Statements (if, else, elif) and their structure
+
 # Python Data Types:
 # Data types are the categories that group values together.
 # There are different types of data types in Python.
