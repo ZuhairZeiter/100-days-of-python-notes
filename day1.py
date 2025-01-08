@@ -1,5 +1,14 @@
 # Day One of Python Learning
 
+# 📌 Objective:
+# Get familiar with the basics of Python programming and set a strong foundation.
+
+# 📖 Topic(s):
+#  1. Introduction to Python
+# 2. Setting up the development environment (installing Python and an IDE like VS Code or PyCharm).
+# 3. Writing and running your first Python program (Hello, World!).
+# 4. Understanding Python Basics; Syntax, Comments, Variables, Keywords, Indentations, identifiers
+
 # Python Indentations
 # Indentations are basically the spaces that we use while programming 
 # in Python
@@ -9,8 +18,8 @@
 # Let's print a statement
 print("Hello, World!")
 
-# Here, print is a python keyword, it is used to print something on the console.
-
+# Here, print is a python built-in function, it is used to print something on the console.
+# In Python 2, print was a statement, not a function. However, in Python 3, it has been replaced by the print() function, which requires parentheses.
 
 # Introduction to Variables:
 # Variables are containers for storing data values
